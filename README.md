@@ -53,3 +53,4 @@ The game design document should be approximately 10 pages. It must contain the f
   - Each team member should describe their main contribution(s) to the game
   - Do a live demo of your game
   - Discuss your learnings (what went wrong, what went well)
+ 
